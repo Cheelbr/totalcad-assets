@@ -86,3 +86,42 @@ Tudo isso em um contexto de inovação contínua, disputa intensa por talentos e
 ### Mercado — Posicionamento e EVP
 9. **Proposta de valor tangível e "localizada"** — além de políticas globais, empresas publicam benefícios e rotinas aderentes ao Brasil (ex.: Gympass/TotalPass, day-off de aniversário, planos de saúde nas vagas).
 10. **Educação como go-to-market** — programas escolares e de universidades (SketchUp for Schools/HE) criam afinidade precoce e funil de usuários e candidatos.
+
+---
+
+## Dificuldades Culturais do Setor
+
+No setor, os principais entraves culturais são centralização e microgestão, metas pouco realistas que levam a burnout, carreiras e reconhecimento pouco transparentes, falhas de comunicação entre áreas e EVP desalinhado da prática. Isso traduz um cenário que favorece quem aposta em **transparência, autonomia e rituais consistentes de aprendizado e reconhecimento**.
+
+### Principais desafios e oportunidades de transformação cultural:
+
+**A. Centralização, pouca autonomia e desgaste de times**
+Relatos recorrentes de centralização e gestão micro, com impacto em motivação e velocidade nas tomadas de decisão e andamento dos processos.
+- **Oportunidade:** Sistema de Decisão claro ou OKRs públicos por squad; publicar "Como decidimos aqui" na página de carreiras.
+- Desenvolvimento de liderança para que saiba delegar e acompanhar as entregas de forma eficiente.
+
+**B. Pressão por metas, plano de carreira e reconhecimento pouco claros**
+Críticas de pressão excessiva, metas inalcançáveis e carreiras opacas (ex.: Buysoft); em outras, salário e encarreiramento aparecem como ponto a evoluir.
+- **Oportunidade:** Trilhas de carreira públicas (matriz de competências e janelas de promoção semestrais).
+- PLR transparente e metas por função.
+- Pensar práticas de saúde mental que funcionem para a empresa.
+
+**C. Comunicação interna falha entre áreas**
+Evidências: em players B2G, aparece "falta de comunicação entre setores".
+- **Oportunidade:** Cerimônias de interface e troca entre áreas.
+- Tabela de SLAs internos (quem entrega o quê, em quanto tempo).
+
+**D. Proposta de valor comunicada ao candidato diferente da prática**
+Evidências: comentários de promessas não cumpridas e desalinhamento discurso-experiência.
+- **Oportunidade:** Entender a proposta de valor percebida e capacitar lideranças para trabalharem em cima do que precisa ser comunicado.
+- Garantir que o que é comunicado para os candidatos é praticado internamente.
+
+**E. Reconhecimento financeiro e carreira em crescimento/integração global**
+Risco cultural típico em fases de integração: diferenças de faixas salariais, critérios de promoção e nomenclatura de cargos podem demorar a alinhar.
+- **Oportunidade:** Transparência no modelo de remuneração e nos critérios para reconhecimento e crescimento.
+
+**F. Governança percebida como diferencial competitivo**
+Por que isso pesa no engajamento e atração: além de vender confiança ao cliente, práticas de integridade claras diminuem ambiguidade interna (decisões, conflitos de interesse).
+- **Oportunidade:** Garantir transparência nas tomadas de decisão e entendimento dos funcionários.
+- Publicar um Código de Conduta e um Partner Code mínimo.
+- Provas de governança no site de carreiras: política de denúncias, tempos médios de resposta, e treinamentos anuais de compliance. Essas práticas devem ser tratadas como rituais (e não só documentos).
