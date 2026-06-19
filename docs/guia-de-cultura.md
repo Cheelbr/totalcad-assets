@@ -23,10 +23,18 @@ Nossa missão vai além de vender software. Queremos ser parceiros estratégicos
 > Somos transparentes, entregamos o que prometemos e criamos boas relações de negócios com clientes, parceiros e colaboradores.
 
 **Na Prática — Para Líderes**
-- *(ver documento original)*
+- Explicam expectativas de forma objetiva antes de iniciar qualquer tarefa.
+- Compartilham o "porquê" das decisões importantes.
+- Dão feedback direto, humano e rápido.
+- Evitam ambiguidades: prazos, responsáveis e critérios sempre claros.
+- Praticam transparência mesmo quando a notícia não é fácil.
 
 **Na Prática — Para Equipe**
-- *(ver documento original)*
+- Comunicam status com regularidade e objetividade.
+- Perguntam quando algo não está claro.
+- Entregam o que prometem — sem promessas vazias.
+- Alinham antes de executar para evitar retrabalho.
+- Falam a verdade com respeito, em qualquer situação.
 
 ---
 
@@ -35,10 +43,18 @@ Nossa missão vai além de vender software. Queremos ser parceiros estratégicos
 > Somos especialistas em vendas, aprendemos continuamente, a inovação, a curiosidade e a qualidade são a base das nossas entregas.
 
 **Na Prática — Para Líderes**
-- *(ver documento original)*
+- Incentivam aprendizado contínuo e especialização técnica.
+- Orientam para melhoria de processo, não só correção de erro.
+- Criam ambientes onde é seguro experimentar e melhorar.
+- Oferecem feedbacks com foco em evolução.
+- Reconhecem entregas feitas com profundidade e qualidade.
 
 **Na Prática — Para Equipe**
-- *(ver documento original)*
+- Buscam sempre a melhor solução, não a mais rápida.
+- Estudam, pesquisam e testam antes de decidir.
+- Revisam trabalhos antes de entregar.
+- Mantêm curiosidade ativa: perguntam, exploram, aprendem.
+- Celebram avanços técnicos e boas práticas.
 
 ---
 
@@ -47,10 +63,18 @@ Nossa missão vai além de vender software. Queremos ser parceiros estratégicos
 > Somos o lado humano da tecnologia. Crescemos juntos, de forma justa, verdadeira e orientada às melhores soluções.
 
 **Na Prática — Para Líderes**
-- *(ver documento original)*
+- Compartilham informações, não centralizam.
+- Criam espaços para que todos contribuam.
+- Conectam pessoas de diferentes áreas para resolver desafios.
+- Reforçam o espírito de "um time só".
+- Celebram vitórias coletivas, não individuais.
 
 **Na Prática — Para Equipe**
-- *(ver documento original)*
+- Ajudam antes de serem pedidos.
+- Pedem ajuda sem vergonha.
+- Compartilham conhecimento e ferramentas com colegas.
+- Evitam silos e barreiras entre áreas.
+- Tratam todos com respeito, independentemente de função.
 
 ---
 
