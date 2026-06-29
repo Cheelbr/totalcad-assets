@@ -141,11 +141,40 @@ GB · ISO · ANSI · ASME · DIN · EN · JIS · KS · BSI · CSN · GOST · PN 
 
 ---
 
+## Mercados-alvo detalhados
+
+### Foco principal: Maquinário & Equipamentos
+**Segmentos secundários:** Moldes · Eletrodomésticos · Eletrônicos de Consumo
+
+| Segmento | Subsetores |
+|----------|------------|
+| **Robôs Industriais, Máquinas-Ferramenta e Impressoras 3D** | Machine Tools · Industrial Robots · Industrial 3D Printers · AGVs |
+| **Maquinário de Manufatura Especializado** | Automated Manufacturing Machinery · Conveyors · IE Engineering Services · Vending Machines |
+| **Maquinário Pesado Móvel** | Agricultural Machinery · Construction & Mining Machinery · Industrial Trucks · Overhead Cranes |
+| **Equipamentos de Pressão** | Boiler Equipment · Pressure Vessel · Dust Removal · Desulfurization Equipment |
+| **Energia e Fluidos** | Electric Motors · Fluid Equipment · Oil & Gas · Heating and Cooling · Bearings |
+| **Moldes** | Metal Parts · Sheet Metal · Cutting Tools · Molds and Dies · Plastic Products |
+
+---
+
+## Pathway for Success (posicionamento estratégico ZWSOFT)
+
+A jornada do cliente com ZWCAD MFG segue quatro estágios:
+
+**Padronização → Parametrização → Serialização → Modularização**
+
+1. **Padronização:** templates, normas e bibliotecas unificadas
+2. **Parametrização:** peças e desenhos com parâmetros controlados
+3. **Serialização:** famílias de produtos geradas automaticamente a partir de variáveis
+4. **Modularização:** plataforma de produto modular com biblioteca corporativa
+
+---
+
 ## O que NÃO está incluso / Limitações
 
 - ZWCAD MFG **não é standalone** — é construído sobre a plataforma ZWCAD
-- Foco exclusivo em **CAD 2D** — não é solução 3D paramétrica
-- Compatibilidade AutoCAD Mechanical estendida até 2024 na versão 2026 (versões futuras não garantidas)
+- Foco exclusivo em **CAD 2D** — não é solução 3D paramétrica (para 3D, ver ZW3D)
+- Compatibilidade AutoCAD Mechanical estendida até 2024 na versão 2026
 - Preços **sob consulta** — nunca publicar valores sem brief atualizado
 
 ---
@@ -154,9 +183,9 @@ GB · ISO · ANSI · ASME · DIN · EN · JIS · KS · BSI · CSN · GOST · PN 
 
 **AutoCAD Mechanical** (Autodesk)
 - Principal alternativa de mercado
-- ZWCAD MFG 2026 expandiu compatibilidade com AM até versão 2024 como diferencial de migração
-- Ponto de venda: mesma capacidade técnica com licença **perpétua** (pague uma vez, use para sempre) vs. assinatura obrigatória Autodesk
-- Upgrades flexíveis: cliente atualiza quando quiser, não é forçado por renovação anual
+- ZWCAD MFG 2026 expandiu compatibilidade com AM até versão 2024
+- Ponto de venda: mesma capacidade técnica com licença **perpétua** vs. assinatura obrigatória Autodesk
+- Upgrades flexíveis: cliente atualiza quando quiser
 
 ---
 
