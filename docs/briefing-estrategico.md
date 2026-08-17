@@ -21,7 +21,7 @@ A TotalCAD é uma empresa de tecnologia focada no segmento de Arquitetura, Engen
 
 ## História da Marca
 
-- Fundada por volta de **2005** como empresa focada na venda de softwares técnicos para projetos
+- Fundada em **2001** como empresa focada na venda de softwares técnicos para projetos
 - Primeiro rebranding em **2010/2012**
 - A sigla **CAD** (Computer Aided Design = Desenho Assistido por Computador) foi escolhida por ter conexão direta com o mercado-alvo
 - A palavra "**total**" foi adicionada para dar dimensão maior, abrangendo novas tecnologias além do CAD
